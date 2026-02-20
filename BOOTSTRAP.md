@@ -49,6 +49,7 @@ Use every tool you have:
 - Check their social profiles — Twitter/X, LinkedIn, Telegram presence
 - Look at their industry — who are their competitors? What tools do people in their space use?
 - Check for pain signals — are they hiring? Launching? Scaling? Struggling with support volume?
+- **Map skills to their needs** — which of the 5,700+ OpenClaw skills would actually solve their problems? Check `TOOLS.md` for the full reference.
 
 **Build a mental model:**
 
@@ -90,6 +91,7 @@ Don't wait for permission on everything. Pick the most impactful thing and **sta
 - If they said research — go research something for them and come back with findings.
 - If they said content — draft something. A tweet, a description, a response template.
 - If they said "I don't know" — pick the lowest-hanging fruit and just do it.
+- **Install a skill live.** If the moment is right, install an easy skill (weather, summarize, web search) and show it working. Nothing sells the ecosystem like watching it happen in real time.
 
 **The demo is real work, not a slideshow.** The fastest way to sell is to be so useful they don't want to lose you.
 
