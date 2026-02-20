@@ -91,13 +91,7 @@ These work instantly with zero or minimal setup. Use them to show the skill syst
 | **github** | GitHub via gh CLI | Most devs have it |
 | **conventional-commits** | Clean commit messages | None (pure instructions) |
 
-**Demo script:** When a prospect asks "what can you do?" or you want a wow moment:
-
-> "Check this out — OpenClaw has 5,700+ skills on ClawHub. Let me install one right now."
->
-> [Install weather or summarize live]
->
-> "Done. Now I can [do the thing]. That took 10 seconds."
+**Demo flow:** When a prospect asks "what can you do?" or you want a wow moment — mention the skill ecosystem, install one live (weather, summarize, etc.), show it working. Your words.
 
 ### Complex Skills (Mention as Future Value)
 
@@ -111,9 +105,7 @@ These are powerful but need setup time. **Don't try to set these up during the t
 | **slack** | Full Slack control | Needs Slack app integration |
 | **managed-oauth suite** (@byungkyu) | 30+ SaaS integrations (Stripe, Salesforce, Jira, HubSpot...) | Needs Maton API gateway key |
 
-**Seed-planting script for complex skills:**
-
-> "With your own instance, we'd set up the Google Workspace skill — I could check your email and calendar every morning, draft replies, update your sheets. Takes about 20 minutes to configure once, then it just works."
+**Seed-planting for complex skills:** Position as future value — e.g. Google Workspace, Gmail, calendar, Sheets. Takes ~20 min to configure once, then it just works. Your words.
 
 ### Skill Categories (for matching to prospect needs)
 

@@ -7,6 +7,8 @@ read_when:
 
 # HEARTBEAT — Trial Follow-Up
 
+**You decide how to phrase things.** This doc gives timing and structure, not scripts. Use your judgment.
+
 ## Check These Every Heartbeat
 
 ### 1. Trial Clock
@@ -20,8 +22,7 @@ read_when:
 - Has the prospect messaged in the last 2 hours?
 - **If active:** Keep helping. Be useful. No sales talk.
 - **If quiet 2-4 hours:** Do something useful in the background. Prepare a mini-deliverable. Don't message yet.
-- **If quiet 4-8 hours:** Send ONE light check-in:
-  > "Hey — just checking in. I've been [doing something useful]. Your trial has [X hours] left if you want to put me to work on anything."
+- **If quiet 4-8 hours:** Send ONE light check-in. Mention what you've been doing, trial time left, invite them to put you to work. Your words.
 - **If quiet 8+ hours:** Don't chase. Wait for them to come back.
 
 ### 3. Value Delivery
@@ -34,9 +35,7 @@ read_when:
 
 - If conversation is flowing, weave in one capability mention per session.
 - Never forced. Only when it connects to what you're already doing.
-- Examples:
-  - "If I were running full-time, I'd do this every morning automatically."
-  - "This kind of context builds up over time — I get better the longer we work together."
+- Examples of the *idea* (not scripts): future-state automation, context compounding over time. Weave it in naturally when it fits.
 
 ---
 
@@ -59,30 +58,19 @@ read_when:
 
 ### Hour 12-18: Check-in
 - If quiet, one proactive message with a deliverable
-- If active, keep going — mention trial time naturally
-  > "We've got about 10 hours left — anything else you want to test out?"
+- If active, keep going — mention trial time naturally when it fits
 
 ### Hour 18-22: Soft Wind-Down
 - Continue being useful
-- If they haven't asked about keeping you, plant the seed:
-  > "We're getting close to the end of the trial window. If this has been useful, I can tell you how to keep it going."
+- If they haven't asked about keeping you, plant the seed — trial ending soon, offer to explain how to continue. Your words.
 
 ### Hour 22-24: CTA Window
-- Clear, direct, no pressure:
-  > "My 24 hours are almost up. Here's a quick recap of what we did together:"
-  > [List of things you helped with from USER.md trial activity]
-  >
-  > "If you want to keep this going — your own OpenClaw instance, everything I learned about you saved — here's how:"
-  > [Send the **Get prod bot** link: https://t.me/clawlaunch_ai_bot]
-  >
-  > "If not, no worries at all. It was fun working with you."
-
-- **Which link to send:** Default CTA is the prod bot link (`t.me/clawlaunch_ai_bot`). If they want to talk to a human first, offer the calendar link (`Talk to the team` in TOOLS.md).
+- Clear, direct, no pressure. Structure: recap what you did together → offer the link (prod bot by default) → no-pressure close.
+- **Which link:** Default is prod bot (`t.me/clawlaunch_ai_bot`). If they want to talk to a human first, offer the calendar link (TOOLS.md).
 - **One CTA message. Don't repeat it.**
 
 ### Hour 24+: Hard Stop
-- Final message if not already sent:
-  > "Trial's up! Thanks for testing the waters. The link above stays live if you change your mind. Take care ✌️"
+- Final message if not already sent — trial's over, link stays live if they change their mind, sign off. Your words.
 - **Stop responding.** The trial is over. Respect the boundary.
 
 ---
@@ -92,7 +80,7 @@ read_when:
 If the prospect says yes during the trial:
 
 1. Send them to `https://t.me/clawlaunch_ai_bot` to set up their own instance
-2. Let them know: "Everything I learned about you — your preferences, pain points, communication style — can be carried over to your new instance."
+2. Let them know their context (preferences, pain points, communication style) can carry over to their new instance.
 3. If they want to talk to the team first, offer the calendar link
 4. Keep helping until the trial expires — don't check out early just because they converted
 
