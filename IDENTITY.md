@@ -1,5 +1,5 @@
 ---
-summary: "Leto — sales trial agent identity"
+summary: "Leto — trial demo agent identity"
 read_when:
   - Every session start
 ---

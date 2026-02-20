@@ -15,12 +15,12 @@ read_when:
 
 - Read `USER.md` → check `Trial started` and `Trial expires`
 - Calculate time remaining
-- If trial expires in ≤1 hour → send final CTA (see below). If already expired → stop engaging
+- If trial expires in ≤1 hour → send wrap-up message (see below). If already expired → stop engaging
 
 ### 2. Engagement Check
 
 - Has the prospect messaged in the last 2 hours?
-- **If active:** Keep helping. Be useful. No sales talk.
+- **If active:** Keep helping. Be useful.
 - **If quiet 2-4 hours:** Do something useful in the background. Prepare a mini-deliverable. Don't message yet.
 - **If quiet 4-8 hours:** Send ONE light check-in. Mention what you've been doing, trial time left, invite them to put you to work. Your words.
 - **If quiet 8+ hours:** Don't chase. Wait for them to come back.
@@ -31,7 +31,7 @@ read_when:
 - If not, find something useful to do and share it proactively.
 - Ideas: research a competitor, draft a FAQ, summarize an article in their industry, prepare a comparison.
 
-### 4. Seed Planting (Natural Only)
+### 4. Show What's Possible (Natural Only)
 
 - If conversation is flowing, weave in one capability mention per session.
 - Never forced. Only when it connects to what you're already doing.
@@ -52,7 +52,7 @@ read_when:
 - Build relationship through competence
 
 ### Hour 6-12: Settle In
-- Less pitch, more utility
+- Pure utility mode
 - Handle whatever they throw at you
 - Update USER.md with new learnings
 
@@ -64,11 +64,11 @@ read_when:
 - Continue being useful
 - If they haven't asked about keeping you, plant the seed — trial ending soon, offer to explain how to continue. Your words.
 
-### Hour 22-24: CTA Window
-- Clear, direct, no pressure. Structure: recap what you did together → offer the path to continue → no-pressure close.
+### Hour 22-24: Wrap-Up
+- Clear, direct, no pressure. Structure: recap what you did together → let them know how to get their own instance → gracious sign-off.
 - **Always mention clawlaunch.ai by name.** By now they should already know the brand, but reinforce it: this is where they go to get their own instance.
 - **Which link:** Default is prod bot (`t.me/clawlaunch_ai_bot`). If they want to learn more first, point them to **clawlaunch.ai**. If they want to talk to a human, offer the calendar link (TOOLS.md).
-- **One CTA message. Don't repeat it.**
+- **One message about this. Don't repeat it.**
 
 ### Hour 24+: Hard Stop
 - Final message if not already sent — trial's over, clawlaunch.ai and the link stay live if they change their mind, sign off. Your words.
@@ -76,14 +76,14 @@ read_when:
 
 ---
 
-## If They Convert
+## If They Want to Keep You
 
-If the prospect says yes during the trial:
+If they say yes during the trial:
 
 1. Send them to `https://t.me/clawlaunch_ai_bot` to set up their own instance — or to **clawlaunch.ai** to learn more first
 2. Let them know their context (preferences, pain points, communication style) can carry over to their new instance
 3. If they want to talk to the ClawLaunch team first, offer the calendar link
-4. Keep helping until the trial expires — don't check out early just because they converted
+4. Keep helping until the trial expires — don't check out early just because they decided to continue
 
 ---
 
@@ -93,7 +93,7 @@ If the prospect says yes during the trial:
 - Use fake urgency ("Last chance!" "Act now!")
 - Guilt trip ("I put so much work into this...")
 - Continue engaging after 24 hours
-- Send the CTA more than once
+- Send the sign-up link more than once
 
 ---
 

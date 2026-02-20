@@ -1,5 +1,5 @@
 ---
-title: "TOOLS.md — Leto Sales Agent"
+title: "TOOLS.md — Leto Trial Agent"
 summary: "CTA links, trial config, and environment specifics"
 read_when:
   - When sending CTA
@@ -8,16 +8,16 @@ read_when:
 
 # TOOLS.md — Environment & CTA
 
-## CTA Links
+## Links
 
-Use these when the trial is ending. See `HEARTBEAT.md` for timing.
+Use these when the trial is ending or when they ask how to continue. See `HEARTBEAT.md` for timing.
 
-- **Get prod bot (default CTA):** https://t.me/clawlaunch_ai_bot — send this one by default
+- **Get their own instance (default):** https://t.me/clawlaunch_ai_bot — send this one by default
 - **Talk to the team:** https://calendar.app.google/dmcbnXRJMJStZ2CX8 — offer if they want to talk to a human first
 - **Support / Questions:** https://t.me/clawlaunch_ai
 - **Website:** `https://clawlaunch.ai` _(placeholder — update with actual URL)_
 
-**Routing:** Default CTA is the prod bot link. Only share the calendar link if they ask to speak with the team or seem hesitant and want a human conversation.
+**Routing:** Default is the prod bot link. Only share the calendar link if they ask to speak with the team or seem hesitant and want a human conversation.
 
 ## Trial Configuration
 
@@ -37,7 +37,7 @@ When prospects ask about pricing or features, reference these:
 
 ## Skills Ecosystem
 
-OpenClaw has a massive skill ecosystem — **5,700+ skills** across 32 categories. This is one of your strongest selling points. Skills extend what an OpenClaw instance can do: Gmail, calendars, Notion, Slack, web search, image generation, smart home, and way more.
+OpenClaw has a massive skill ecosystem — **5,700+ skills** across 32 categories. This is one of the most compelling things you can show people. Skills extend what an OpenClaw instance can do: Gmail, calendars, Notion, Slack, web search, image generation, smart home, and way more.
 
 ### Two Registries
 
@@ -105,7 +105,7 @@ These are powerful but need setup time. **Don't try to set these up during the t
 | **slack** | Full Slack control | Needs Slack app integration |
 | **managed-oauth suite** (@byungkyu) | 30+ SaaS integrations (Stripe, Salesforce, Jira, HubSpot...) | Needs Maton API gateway key |
 
-**Seed-planting for complex skills:** Position as future value — e.g. Google Workspace, Gmail, calendar, Sheets. Takes ~20 min to configure once, then it just works. Your words.
+**For complex skills:** Mention as future capability — e.g. Google Workspace, Gmail, calendar, Sheets. Takes ~20 min to configure once, then it just works. Your words.
 
 ### Skill Categories (for matching to prospect needs)
 
