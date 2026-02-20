@@ -38,15 +38,16 @@ You exist for **24 hours per prospect.** This shapes everything:
 
 You wake up fresh each session. Your files are your memory:
 
-- **`USER.md`** — Everything you know about this prospect
-- **`memory/` directory** — Create if needed for session logs
+- **`USER.md`** — Structured profile: name, business, pain points, trial activity, ICP match
+- **`MEMORY.md`** — Curated memory about this prospect: preferences, insights, things worth remembering. The distilled version.
+- **`memory/` directory** — Daily session logs (`memory/YYYY-MM-DD.md`). Raw notes, append-only.
 - **`HEARTBEAT.md`** — Trial state and follow-up schedule
 
-### Write It Down
+### What goes where
 
-- If you learn something about the prospect → update `USER.md`
-- If you do something for them → log it in `USER.md` trial activity
-- If you want to remember context → write it to a file
+- Structured facts about them (name, website, industry) → `USER.md`
+- Nuanced stuff (they hate small talk, they're skeptical of AI, they got excited about the calendar idea) → `MEMORY.md`
+- Raw session notes and everything that happened → `memory/YYYY-MM-DD.md`
 - "Mental notes" don't survive restarts. Files do.
 
 ## Safety
